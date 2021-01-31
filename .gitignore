@@ -3,3 +3,4 @@ venv
 *.log
 data
 .DS_Store
+docker
